@@ -1,4 +1,3 @@
-content = """
 # Ayu Market Dashboard✨
 
 ## Setup Environment - Anaconda
